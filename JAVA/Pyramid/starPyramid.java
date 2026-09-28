@@ -1,5 +1,16 @@
 package JAVA.Pyramid;
 
+/* --------------
+
+ *
+ * *
+ * * *
+ * * * *
+ * * * * *
+ * * * * * *
+
+ -------------------*/
+
 public class starPyramid {
 
     public static void main(String[] args) {
